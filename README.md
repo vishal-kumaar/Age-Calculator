@@ -1,5 +1,5 @@
 # ⭐ Project - Age Calculator ⭐
-🔗 [Project Link](https://calculator-for-age.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Age-Calculator/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
